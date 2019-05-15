@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//make sure the i add sql code tonights
 
 namespace SportsStore.Domain.Entites
 {
